@@ -1,0 +1,8 @@
+setup.py
+sleepypuppy/__init__.py
+sleepypuppy.egg-info/PKG-INFO
+sleepypuppy.egg-info/SOURCES.txt
+sleepypuppy.egg-info/dependency_links.txt
+sleepypuppy.egg-info/not-zip-safe
+sleepypuppy.egg-info/requires.txt
+sleepypuppy.egg-info/top_level.txt
